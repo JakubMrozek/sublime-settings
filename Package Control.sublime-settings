@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"BracketHighlighter",
+		"Clipboard History",
+		"CoffeeScript",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL"
+	]
+}
